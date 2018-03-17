@@ -1,0 +1,30 @@
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\eie project.dll.config
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\eie project.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\eie project.pdb
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\Antlr3.Runtime.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\Microsoft.Web.Infrastructure.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\Newtonsoft.Json.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.Helpers.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.Mvc.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.Optimization.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.Razor.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.WebPages.Deployment.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.WebPages.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.WebPages.Razor.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\WebGrease.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.Helpers.xml
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.Mvc.xml
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.Optimization.xml
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.Razor.xml
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.WebPages.xml
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.WebPages.Deployment.xml
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\System.Web.WebPages.Razor.xml
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\Antlr3.Runtime.pdb
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\Newtonsoft.Json.xml
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\obj\Debug\eie project.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\obj\Debug\eie project.pdb
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\EntityFramework.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\EntityFramework.SqlServer.dll
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\EntityFramework.xml
+c:\users\joy agwu\documents\visual studio 2013\Projects\eie project\eie project\bin\EntityFramework.SqlServer.xml
+C:\Users\JOY AGWU\Documents\Visual Studio 2013\Projects\eie project\eie project\obj\Debug\eie project.csprojResolveAssemblyReference.cache

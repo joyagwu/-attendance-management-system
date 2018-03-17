@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title </title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="@Url.Content("~/Content/eiestyle.css")" rel="stylesheet" type="text/css" />
+
+    <link href="@Url.Content("~/Content/bootstrap.css")" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="~/Scripts/bootstrap.js"></script>
+
+    <link rel="stylesheet" href="@Url.Content("~/font-awesome/css/font-awesome.min.css")" type="text/css" />
+
+</head>
+<body>
+
+
+    <div id="header-topbar-option-demo" class="page-header-topbar">
+        <nav id="topbar" role="navigation" style="margin-bottom: 0; z-index: 2;"
+             class="navbar navbar-static-top nav_color">
+            <div class="navbar-header">
+                <a id="logo" href="#" class="navbar-brand">
+                    <span class="fa fa-plug"></span>
+                    <span class="logo-text">EIE PROJECT</span><span style="display: none" class="logo-text-icon"></span>
+                </a>
+            </div>
+
+            <div class="tech-faq">
+                EIE PROJECTS&nbsp;<em>|</em>&nbsp;COVENANT UNIVERSITY
+            </div>
+        </nav>
+    </div>
+
+    <div class="tech-navup">
+
+        @RenderBody()
+    </div>
+
+    <footer class="clearfix">
+        <div class="text text-center">
+
+            &copy @DateTime.Now.Year All Rights Reserved    EIE PROJECT
+        </div>
+
+    </footer>
+    @RenderSection("scripts", required: false)
+
+
+</body>
+</html>

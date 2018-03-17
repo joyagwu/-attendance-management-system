@@ -1,0 +1,52 @@
+﻿@model eie_project.Models.AdminAccount
+
+@{
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+    ViewBag.Title = "Administrator Login";
+}
+
+<div class="tech-dim">
+</div>
+
+<div class="col-lg-offset-4 col-lg-4">
+
+    @using (Html.BeginForm("Login", "Admin", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class=" box_shadow tech-bright tech-panel panel-default ">
+            <div class="panel-heading">
+                <h5 class=" text_color text text-primary text-center ">ADMIN LOGIN</h5>
+            </div>
+
+            <div class="panel-body">
+                <div class="form-group">
+
+                    <p class="text text-danger">@ViewData["error"]*</p>
+                </div>
+                
+                    <div class="form-group">
+                        <div class="input-new input-group">
+                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                            @Html.TextBoxFor(model => model.Username, new { @id = "int", @placeholder = "USERNAME", @required = "" })
+                        </div>
+                        @Html.ValidationMessageFor(model => model.Username)
+                    </div>
+
+
+                    <div class="form-group">
+                        <div class="input-new input-group">
+                            <span class="input-group-addon"><i class="fa fa-lock"></i></span>
+                            @Html.TextBoxFor(model => model.Password, new { @id = "int", @placeholder = "PASSWORD", @required = "", @type ="password" })
+                        </div>
+                        @Html.ValidationMessageFor(model => model.Password)
+                    </div>
+
+
+                </div>
+            <button type="submit" class="btn-style pan-b btn btn-purple "><i class="fa fa-sign-in"></i> Sign In</button>
+
+        </div>
+
+    }
+</div>
